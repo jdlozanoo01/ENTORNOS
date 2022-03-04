@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="5" timestamp="1645182846530" analysisTimestamp="1645182845826" release="">
+  <Project projectName="a">
+    <Jar>C:\Users\od1oW\eclipse-workspace\a\bin\a\MiExcepcion.class</Jar>
+    <AuxClasspathEntry>C:\Users\od1oW\eclipse-workspace\a\bin</AuxClasspathEntry>
+    <SrcDir>C:\Users\od1oW\eclipse-workspace\a\src</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 18 Feb 2022 11:11:58 +0100" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="17.0.2" vm_version="17.0.2+8" cpu_seconds="1.20" clock_seconds="0.72" peak_mbytes="414.22" alloc_mbytes="2048.00" gc_seconds="0.00">
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="634" invocations="2" avgMicrosecondsPerInvocation="317017" maxMicrosecondsPerInvocation="321244" standardDeviationMircosecondsPerInvocation="4189"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1645178141462" release="" codeSize="0" numClasses="0"/>
+    <AppVersion sequence="1" timestamp="1645178141462" release="" codeSize="0" numClasses="0"/>
+    <AppVersion sequence="2" timestamp="1645178195631" release="" codeSize="0" numClasses="0"/>
+    <AppVersion sequence="3" timestamp="1645179077909" release="" codeSize="0" numClasses="0"/>
+    <AppVersion sequence="4" timestamp="1645179110007" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>
